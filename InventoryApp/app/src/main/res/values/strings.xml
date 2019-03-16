@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">InventoryApp</string>
+    <string name="product">PRODUCT</string>
+    <string name="edit_text_name">Name</string>
+    <string name="edit_text_price">Price</string>
+    <string name="edit_text_quantity">Quantity</string>
+    <string name="supplier">SUPPLIER</string>
+    <string name="edit_text_suppliername">Supplier Name</string>
+    <string name="edit_text_phonenumber">Phone Number</string>
+    <string name="action_save">save</string>
+    <string name="empty_view_title_text">Database is empty</string>
+    <string name="action_delete_all_entries">Delete All</string>
+    <string name="action_delete">Delete</string>
+    <string name="new_product">Add a new Product</string>
+    <string name="edit_product">Edit Product</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="delete_dialog_msg">Delete this product?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="editor_delete_product_successful">Product deleted</string>
+    <string name="editor_delete_product_failed">Error with deleting product</string>
+    <string name="editor_insert_product_failed">Error with saving product</string>
+    <string name="editor_insert_product_successful">Product saved</string>
+    <string name="add_new_item">Add new items by clicking button</string>
+    <string name="editor_update_product_successful">Product updated</string>
+    <string name="editor_update_product_failed">Error with updating product</string>
+    <string name="buy_msg_confirm">Item has been sold</string>
+    <string name="no_product_in_stock">No available product in stock</string>
+    <string name="toast_out_of_stock_msg">Product is out of stock!</string>
+    <string name="error_msg_stock_update">Issue with upload value of quantity</string>
+    <string name="up_quantity">Quantity has increased</string>
+    <string name="down_quantity">Quantity has decreased</string>
+</resources>
